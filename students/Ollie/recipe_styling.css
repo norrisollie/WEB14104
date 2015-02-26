@@ -1,0 +1,56 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+  font-size: 16px;
+  line-height: 24px;
+}
+h1 {
+  font-size: 66px;
+  line-height: 72px;
+  margin-top: 48px;
+  margin-bottom: 24px;
+}
+h2 {
+  font-size: 41px;
+  line-height: 48px;
+  margin-top: 48px;
+  margin-bottom: 24px;
+}
+h3 {
+  font-size: 26px;
+  line-height: 48px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+h4 {
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+p, ul, ol, pre, table, blockquote {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+/* Sanitation */
+hr {
+  border: 1px solid;
+  margin: -1px 0;
+}
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+b, strong, em, small, code {
+  line-height: 1;
+}
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub {
+  top: 0.4em;
+}
