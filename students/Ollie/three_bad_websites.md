@@ -3,7 +3,7 @@ There are some awful websites out there on the World Wide Web, but these are thr
 
 ##[sainsburys-live-well-for-less.co.uk]("sainsburys-live-well-for-less.co.uk")
 
-![image](https://raw.githubusercontent.com/norrisollie/WEB14104/master/students/Ollie/images/js.png)
+ 
 
 ###Features
 
