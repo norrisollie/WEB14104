@@ -15,7 +15,7 @@ li:nth-child(even) {
 }
 
 .hero-contain {
-	background:url(../../../../Downloads/chili-cyclonebill-flickr.jpg);
+	background:url(https://raw.githubusercontent.com/norrisollie/WEB14104/master/students/Ollie/images/chilli.jpg);
 	background-size:cover;
 	background-position:center;
 	position:fixed;
