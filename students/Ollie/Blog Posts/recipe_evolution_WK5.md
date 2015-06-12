@@ -15,3 +15,7 @@ The image above also shows what the recipe looked like after applying some more 
 ![image](https://raw.githubusercontent.com/norrisollie/WEB14104/master/students/Ollie/images/evo4.png)
 
 The image above shows what the recipe looked like after using Skeleton, a grid system to make the recipe responsive. There are two columns, when the window is resized one column goes beneath the other, meaning it can be viewed on smaller devices.
+
+![image](https://raw.githubusercontent.com/norrisollie/WEB14104/master/students/Ollie/images/evo5.png)
+
+This is the final version of the site, responsive with comprehensive styling and a fixed header that hides on scroll.
